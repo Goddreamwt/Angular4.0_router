@@ -918,7 +918,7 @@ app.component.html
 当我点击商品详情按钮的时候，传递参数为3，直接跳转到首页
 
 
-![image](https://github.com/872822645/danxuankuangDemo/blob/master/1.jpg)
+![image](https://github.com/Goddreamwt/Angular4.0_router/blob/master/imge/1.png)
 
 
 
